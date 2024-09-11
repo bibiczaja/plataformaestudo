@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Oque é um continente?',
+    'Um continente é uma grande massa de terra que se eleva acima do nivel do mar e é geralmente cercado por água'
 )
 
 criaCartao(
