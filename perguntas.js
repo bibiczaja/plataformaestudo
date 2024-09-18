@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Quimica',
+    'Oque é pH?',
+    'É uma medida que indica a acidez ou alcalinidade de uma solução aquosa'
 )
